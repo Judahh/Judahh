@@ -20,13 +20,6 @@
 </p>
 
 <p align="center">
-Hi there 👋
-</p>
-<p align="center">
-My name is Judah ⚡
-</p>
-
-<p align="center">
 <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&theme=" />
 </p>
