@@ -20,6 +20,5 @@
 </p>
 
 <p align="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-<img width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&theme=" />
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
 </p>
