@@ -5,20 +5,6 @@
 <a href="https://jl.business"><img src="https://img.shields.io/badge/-JL%20CONSULTING-0E0E0E?style=flat&link=https://jl.business"/></a>
 <a href="https://github.com/Judahh"><img src="https://img.shields.io/github/followers/Judahh?label=follow&style=social"/></a>
 </p>
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
-</p>
-
 <p align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
 </p>
