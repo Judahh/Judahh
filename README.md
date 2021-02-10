@@ -10,7 +10,9 @@ If you desire something to use as a internal message broker or a plug n play Obs
 Maybe you want a CQRS/Event-Sourcing framework so <a href="https://github.com/Judahh/flexiblePersistence">Flexible Persistence</a> is what you looking for...<br/>
 But if you are looking for a framework that helps you to organize a Rest API compatible with NextJS, Express and still growing. You want <a href="https://github.com/Judahh/backAPIRest">BackAPIRest</a>.<br/>
 
-In case you are a problem solver too, you can help me to improve those projecs contributing to them. 
+You can check a repo that shows how all those projects work together: <a href="https://github.com/Judahh/VUTT">VUTT</a><br/>
+
+In case you are a problem solver too, you can help me to improve those projects contributing to them. 
 
 <p align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
