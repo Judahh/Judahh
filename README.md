@@ -15,6 +15,6 @@ You can check a repo that shows how all those projects work together: <a href="h
 In case you are a problem solver too, you can help me to improve those projects contributing to them. 
 
 <p align="center">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Judahh&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir"/>
 </p>
