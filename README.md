@@ -139,7 +139,8 @@
     <br />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <br />
-    <!--<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />-->
+    <img alt="ESLint"
+      src="https://img.shields.io/badge/-ESLint-810ad1?style=flat-square&logo=ESLint&logoColor=white" />
     <img alt="Prettier"
       src="https://img.shields.io/badge/-Prettier-F05032?style=flat-square&logo=prettier&logoColor=white" />
     <br />
@@ -163,6 +164,7 @@
     <img alt="Jestjs" src="https://img.shields.io/badge/-Jestjs-F05032?style=flat-square&logo=Jest&logoColor=white" />
     <br />
     <img alt="YARN" src="https://img.shields.io/badge/-Yarn-1a73e8?style=flat-square&logo=yarn&logoColor=white" />
+    <!--<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />-->
     <br />
     <img alt="VS Code"
       src="https://img.shields.io/badge/-VS_Code-1a73e8?style=flat-square&logo=visualstudiocode&logoColor=white" />
