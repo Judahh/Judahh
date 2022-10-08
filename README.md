@@ -64,22 +64,22 @@
 
   <p align="center">
     <picture height="150em">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs">
-      <img height="150em" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=github_dark&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000">
+      <img height="150em" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000"/>
     </picture>
     <picture height="150em">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW">
-      <img height="150em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&theme=github_dark&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&bg_color=00000000">
+      <img height="150em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&bg_color=00000000"/>
     </picture>
     <picture height="150em">
-      <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=react">
-      <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal">
-      <img height="150em" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=react&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal&hide_border=true">
+      <img height="150em" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal&hide_border=true"/>
     </picture>
     <picture height="150em">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Judahh&theme=windows-dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Judahh&theme=windows-dark&hide_border=true&background=00000000">
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Judahh">
       <img height="150em" alt="Streak" src="https://streak-stats.demolab.com/?user=Judahh"/>
     </picture>
