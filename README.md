@@ -34,9 +34,9 @@
       <td><img alt="Downloads" src="https://img.shields.io/npm/dt/journaly.svg?style=flat-square&labelColor=000000"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Judahh/backAPIRest">BackAPIRest</a></td>
-      <td>API Framework compatible with Next.Js, Express and Lambda more</td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/backapirest.svg?style=flat-square&labelColor=000000"/></td></td>
+      <td><a href="https://github.com/Judahh/backAPI">BackAPI</a></td>
+      <td>API Framework compatible with Socket - SocketIO and Rest - Next.Js, Express and Lambda more</td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/backapi.svg?style=flat-square&labelColor=000000"/></td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Judahh/flexiblePersistence">Flexible Persistence</a></td>
