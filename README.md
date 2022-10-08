@@ -1,6 +1,13 @@
 <head>
   <link rel="preload" href="https://jl.business/fonts/Spartan/Spartan-Thin.ttf" as="font" crossorigin="">
+  <!--<style>
+    @font-face {
+      font-family: 'Spartan-Thin';
+      src: url("https://jl.business/fonts/Spartan/Spartan-Thin.ttf");
+    }
+  </style>-->
 </head>
+
 <body style="font-family: Spartan-Thin; font-weight: bold;">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Judahh&color=000000&style=flat-square" alt="Judahh" />
@@ -56,10 +63,30 @@
   </p>
 
   <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW"/>
-    <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal"/>
-    <img height="150em" src="https://streak-stats.demolab.com/?user=Judahh"/>
-    <!-- <img height="150em" src="[https://streak-stats.demolab.com/?user=Judahh](https://github-readme-stats.vercel.app/api/wakatime?username=Judahh)"/> -->
+    <picture height="150em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs">
+      <img height="150em" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs"/>
+    </picture>
+    <picture height="150em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW">
+      <img height="150em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW"/>
+    </picture>
+    <picture height="150em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=react">
+      <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal">
+      <img height="150em" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal"/>
+    </picture>
+    <picture height="150em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Judahh&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Judahh">
+      <img height="150em" alt="Streak" src="https://streak-stats.demolab.com/?user=Judahh"/>
+    </picture>
+    <!-- 
+      <picture height="150em">
+        <img height="150em" src="[https://streak-stats.demolab.com/?user=Judahh](https://github-readme-stats.vercel.app/api/wakatime?username=Judahh)"/>
+      </picture>
+    -->
   </p>
 </body>
