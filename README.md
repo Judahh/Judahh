@@ -79,7 +79,7 @@
       <img height="150em" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal"/>
     </picture>
     <picture height="150em">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Judahh&theme=dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Judahh&theme=windows-dark">
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Judahh">
       <img height="150em" alt="Streak" src="https://streak-stats.demolab.com/?user=Judahh"/>
     </picture>
