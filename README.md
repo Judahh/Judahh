@@ -17,4 +17,5 @@ In case you are a problem solver too, you can help me to improve those projects 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir"/>
   <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Judahh"/>
 </p>
