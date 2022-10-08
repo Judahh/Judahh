@@ -13,6 +13,25 @@ You can check a repo that shows how all those projects work together: <a href="h
 
 In case you are a problem solver too, you can help me to improve those projects contributing to them. 
 
+<h3>Stuff I like to use</h3>
+<p>
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-ec7211?style=flat-square&logo=amazon&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="YARN" src="https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
+  <!--<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />-->
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
+</p>
+
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir"/>
