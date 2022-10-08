@@ -23,6 +23,8 @@ In case you are a problem solver too, you can help me to improve those projects 
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-ec7211?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-Digital_Ocean-1a73e8?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="Atlas" src="https://img.shields.io/badge/-Atlas-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -34,6 +36,7 @@ In case you are a problem solver too, you can help me to improve those projects 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="Jestjs" src="https://img.shields.io/badge/-Jestjs-c21325?style=flat-square&logo=Jest&logoColor=white" />
 </p>
 
 <p align="center">
