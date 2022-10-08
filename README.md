@@ -108,9 +108,16 @@
             src="https://img.shields.io/npm/dt/flexiblepersistence.svg?style=flat-square&labelColor=000000" /></td>
         </td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/Judahh/minimalComponents">Minimal Component</a></td>
+        <td>Minimalist React Components (New Project)</td>
+        <td><img alt="Downloads"
+            src="https://img.shields.io/npm/dt/minimal-components.svg?style=flat-square&labelColor=000000" /></td>
+        </td>
+      </tr>
     </tbody>
   </table>
-  You can check a repo that shows how all those packages work together: <a
+  You can check a repo that shows how all those packages work together on backend: <a
     href="https://github.com/Judahh/VUTT">VUTT</a><br />
 
   In case you are a problem solver too, you can help me to improve those projects contributing to them.
