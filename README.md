@@ -17,11 +17,34 @@
   </p>
   Hi, my name is Judah and I'm a problem solver. Here is where I develop some of my solutions.
   <br/>
-  <h3>Packages:</h3>
-  If you desire something to use as a internal message broker or a plug n play Observer-Pub/Sub Pattern Implementation maybe <a href="https://github.com/Judahh/journaly">Journaly</a> is for you!<br/>
-  Maybe you want a CQRS/Event-Sourcing framework so <a href="https://github.com/Judahh/flexiblePersistence">Flexible Persistence</a> is what you looking for...<br/>
-  But if you are looking for a framework that helps you to organize a Rest API compatible with NextJS, Express and still growing. You want <a href="https://github.com/Judahh/backAPIRest">BackAPIRest</a>.<br/>
-
+  <h3>Open source projects</h3>
+  <h4>Packages:</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Name</b></td>
+      <td><b>Description</b></td>
+      <td><b>Downloads</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Judahh/journaly">Journaly</a></td>
+      <td>Internal message broker or a plug n play Observer-Pub/Sub Pattern Implementation</td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/journaly.svg?style=flat-square&labelColor=000000"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Judahh/backAPIRest">BackAPIRest</a></td>
+      <td>API Framework compatible with Next.Js, Express and Lambda more</td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/backapirest.svg?style=flat-square&labelColor=000000"/></td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Judahh/flexiblePersistence">Flexible Persistence</a></td>
+      <td>CQRS/Event-Sourcing like framework</td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/flexiblepersistence.svg?style=flat-square&labelColor=000000"/></td></td>
+    </tr>
+  </tbody>
+</table>
   You can check a repo that shows how all those projects work together: <a href="https://github.com/Judahh/VUTT">VUTT</a><br/>
 
   In case you are a problem solver too, you can help me to improve those projects contributing to them. 
