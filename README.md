@@ -15,7 +15,7 @@ You can check a repo that shows how all those projects work together: <a href="h
 
 In case you are a problem solver too, you can help me to improve those projects contributing to them. 
 
-<h3>I'm using:</h3>
+<h3>I'm using now:</h3>
 <p>
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-000000?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Podman" src="https://img.shields.io/badge/-Podman-810ad1?style=flat-square&logo=podman&logoColor=white" />
@@ -52,7 +52,7 @@ In case you are a problem solver too, you can help me to improve those projects 
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW"/>
   <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=minimal"/>
   <img height="150em" src="https://streak-stats.demolab.com/?user=Judahh"/>
   <!-- <img height="150em" src="[https://streak-stats.demolab.com/?user=Judahh](https://github-readme-stats.vercel.app/api/wakatime?username=Judahh)"/> -->
