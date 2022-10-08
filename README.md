@@ -17,7 +17,7 @@ In case you are a problem solver too, you can help me to improve those projects 
 
 <h3>I'm using:</h3>
 <p>
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-000000?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Podman" src="https://img.shields.io/badge/-Podman-892ca0?style=flat-square&logo=podman&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white" />
