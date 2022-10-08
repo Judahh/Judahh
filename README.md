@@ -1,8 +1,11 @@
+<head>
+  <link rel="preload" href="/fonts/Spartan/Spartan-Thin.ttf" as="font" crossorigin="">
+</head>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Judahh&color=000000&style=flat-square" alt="Judahh" />
-<a href="https://www.linkedin.com/in/judah-holanda/" target="_blank"><img src="https://img.shields.io/badge/-Judah%20Holanda-0E0E0E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/judah-holanda/"/></a>
-<a href="mailto:judahholanda7@gmail.com"><img src="https://img.shields.io/badge/-judahholanda7@gmail.com-0E0E0E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:judahholanda7@gmail.com"/></a>
-<a href="https://github.com/Judahh"><img src="https://img.shields.io/github/followers/Judahh?label=follow&color=000000&style=social"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Judahh&color=000000&style=flat-square" alt="Judahh" />
+  <a href="https://www.linkedin.com/in/judah-holanda/" target="_blank"><img src="https://img.shields.io/badge/-Judah%20Holanda-0E0E0E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/judah-holanda/"/></a>
+  <a href="mailto:judahholanda7@gmail.com"><img src="https://img.shields.io/badge/-judahholanda7@gmail.com-0E0E0E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:judahholanda7@gmail.com"/></a>
+  <a href="https://github.com/Judahh"><img src="https://img.shields.io/github/followers/Judahh?label=follow&color=000000&style=social"/></a>
 </p>
 Hi, my name is Judah and I'm a problem solver. Here is where I develop some of my solutions.
 <br/>
