@@ -182,9 +182,9 @@
   <p align="center">
     <picture height="150em">
       <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-bay-three.vercel.app?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=github_dark&bg_color=00000000&hide_border=true">
+        srcset="https://github-readme-stats-bay-three.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=github_dark&bg_color=00000000&hide_border=true">
       <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-bay-three.vercel.app?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true">
+        srcset="https://github-readme-stats-bay-three.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true">
       <img height="150em" alt="Stats"
         src="https://github-readme-stats-bay-three.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true" />
     </picture>
