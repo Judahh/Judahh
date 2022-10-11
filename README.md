@@ -180,14 +180,16 @@
   </p>
 
   <p align="center">
-    <picture height="150em">
+    <!--<picture height="150em">
       <source media="(prefers-color-scheme: dark)"
         srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=github_dark&bg_color=00000000&hide_border=true">
       <source media="(prefers-color-scheme: light)"
         srcset="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true">
       <img height="150em" alt="Stats"
         src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true" />
-    </picture>
+    </picture>-->
+    <img height="150em" alt="Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true" />
     <picture height="150em">
       <source media="(prefers-color-scheme: dark)"
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&theme=github_dark&bg_color=00000000">
