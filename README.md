@@ -109,7 +109,7 @@
         </td>
       </tr>
       <tr>
-        <td><a href="https://github.com/Judahh/minimalComponents">Minimal Component</a></td>
+        <td><a href="https://github.com/Judahh/minimalComponents">Minimal Components</a></td>
         <td>Minimalist React Components (New Project)</td>
         <td><img alt="Downloads"
             src="https://img.shields.io/npm/dt/minimal-components.svg?style=flat-square&labelColor=000000" /></td>
