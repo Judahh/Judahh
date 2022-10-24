@@ -141,8 +141,6 @@
       src="https://img.shields.io/badge/-Atlas-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Vercel"
       src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    <img alt="Heroku"
-      src="https://img.shields.io/badge/-Heroku-810ad1?style=flat-square&logo=heroku&logoColor=white" />
     <br />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <br />
