@@ -196,7 +196,7 @@
     <img height="150em" alt="Stats"
         src="https://github-readme-stats-bay-three.vercel.app/api?username=Judahh&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&hide_border=true" />
     <img height="150em" alt="Top Languages"
-        src="https://github-readme-stats-bay-three.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,cpp,c++,C++,CPP,Cpp,java,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&bg_color=00000000&hide_border=true" />
+        src="https://github-readme-stats-bay-three.vercel.app/api/top-langs/?username=Judahh&layout=compact&langs_count=10&hide=assembly,c,cpp,c%2B%2B,java,javascript,postscript,livescript,pascal,html,css,d,objective-c,arduino,lex,php,makefile,cmake,yacc,tcl,processing,apacheconf,perl,elixir,verilog,labVIEW&bg_color=00000000&hide_border=true" />
     <picture height="150em">
       <source media="(prefers-color-scheme: dark)"
         srcset="https://activity-graph.herokuapp.com/graph?username=Judahh&theme=react&hide_border=true&bg_color=00000000">
