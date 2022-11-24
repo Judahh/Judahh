@@ -96,7 +96,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/Judahh/backAPI">BackAPI</a></td>
-        <td>API Framework compatible with Socket - SocketIO and Rest - Next.Js, Express and Lambda more</td>
+        <td>API Framework compatible with Socket - SocketIO and Rest - Next.Js, Express, Lambda and more</td>
         <td><img alt="Downloads"
             src="https://img.shields.io/npm/dt/backapi.svg?style=flat-square&labelColor=000000" /></td>
         </td>
