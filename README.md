@@ -117,6 +117,7 @@
       </tr>
     </tbody>
   </table>
+  If you want a Quick Start for BackAPI just: $npx tmplr judahh/templateAPI
   You can check a repo that shows how all those packages work together on backend: <a
     href="https://github.com/Judahh/VUTT">VUTT</a><br />
 
